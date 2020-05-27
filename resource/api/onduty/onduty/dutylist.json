@@ -1,0 +1,26 @@
+{
+    "code": 200,
+    "msg": "操作成功！",
+    "data": [{
+            "deleteFlag": "0",
+            "beginDate": "2020-04-26T16:00:00.000+0000",
+            "period": "1",
+            "ondutyPerId": "01fce86f707040719c9ceb2e3798a37b",
+            "endDate": "2020-04-27T16:00:00.000+0000",
+            "createTime": 1587950506963,
+            "updateTime": 1587950506963,
+            "id": "dacfda8d6fc14d0991eda1566e00c5f4",
+            "userName": "值守用户"
+        }, {
+            "deleteFlag": "0",
+            "beginDate": "2020-04-27T16:00:00.000+0000",
+            "period": "2",
+            "ondutyPerId": "01fce86f707040719c9ceb2e3798a37b",
+            "endDate": "2020-04-28T16:00:00.000+0000",
+            "createTime": 1588128460494,
+            "updateTime": 1588128460494,
+            "id": "4d7ea68d54ba47169f3cc8ad9e127da3",
+            "userName": "值守用户"
+        }
+    ]
+}
